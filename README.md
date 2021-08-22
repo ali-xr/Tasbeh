@@ -2,7 +2,7 @@
 
 Tasbeh Flutter project.
 
-# Tasbeh 1 Photo
+# Tasbeh Photo
 <a href="https://ibb.co/j8Ngftt"><img src="https://i.ibb.co/9pDsgPP/Screenshot-20210822-021159.jpg" alt="Screenshot-20210822-021159" border="0" width="100"></a>
 
 # Tasbeh 2 Photos 
